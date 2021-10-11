@@ -5,7 +5,7 @@
 - Print bill to customer
 
 ## Language
-[C++]
+`C++`
 
 ## Technical
 Object-oriented Programming
